@@ -8,6 +8,8 @@ And this project was complelished by refering to homepage linked below.
 
 Reference Link : https://github.com/lizhengwei1992/Semantic_Human_Matting
 
+Free icon Link : https://www.flaticon.com/free-icon/ai_8131880
+
 
 # Project Overall process
 
@@ -18,6 +20,3 @@ Reference Link : https://github.com/lizhengwei1992/Semantic_Human_Matting
 
 
 
-# Demo
-
-![Sementic_Human_matting](https://github.com/jihoahn9303/Semantic_Human_Matting_Project/assets/48744746/12349fbe-41cb-4d41-9727-0e3acdb0ddf1)
